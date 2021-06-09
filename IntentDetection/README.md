@@ -1,7 +1,7 @@
 ## We divided these intent detection papers into 3 types:
 ## 1. Traditional Intent Detection
 ## 2. Joint Intent Detection and Slot Filling
-##3. Zero-shot Intent Detection
+## 3. Zero-shot Intent Detection
 
 [Here](https://github.com/FYNIXnlpGroupIIE/PaperReading/tree/main/2020-06-16%20%E6%84%8F%E5%9B%BE%E8%AF%86%E5%88%AB) is the connection and carding of the following papers.
 # 1.Traditional Intent Detection
