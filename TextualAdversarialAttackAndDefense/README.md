@@ -13,6 +13,6 @@ https://github.com/xiaosen-wang/Adversarial-Examples-Paper
 2. Adversarial Attacks and Defenses in Images, Graphs and Text: A Review
 3. Towards a Robust Deep Neural Network in Texts: A Survey
 4. Adversarial Attacks and Defense on Texts: A Survey
-5.Review of Artificial Intelligence Adversarial Attack and Defense Technologies
+5. Review of Artificial Intelligence Adversarial Attack and Defense Technologies
 
 ## 二、文本对抗攻击
